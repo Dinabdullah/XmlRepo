@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">البروجكت الاول</string>
+    <string name="google_details">Google LLC هي شركة متعددة الجنسيات أمريكية وشركة تكنولوجيا تركز على الإعلان عبر الإنترنت وتكنولوجيا محركات البحث والحوسبة السحابية وبرامج الكمبيوتر والحوسبة الكمومية والتجارة الإلكترونية والإلكترونيات الاستهلاكية والذكاء الاصطناعي.</string>
+    <string name="urll"><u>Google.com</u></string>
+    <string name="google_address">منظر الجبل، كاليفورنيا، الولايات المتحدة</string>
+</resources>
